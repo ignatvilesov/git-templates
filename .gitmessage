@@ -1,0 +1,26 @@
+# <type>[optional scope]: <description>
+# No more than 72 chars. ########################## 72 chars is here: #
+
+# Body: Explain *what* and *why* (not *how*). 
+# Wrap at 72 chars. ################################## which is here: #
+
+# Footer: Provide additional links and breaking changes
+# Include task ID or link (Jira issue).
+
+# Conventional Commits 1.0.0
+# https://www.conventionalcommits.org/en/v1.0.0/#summary
+# https://www.conventionalcommits.org/en/v1.0.0/#summary
+#
+# 1. build: Changes that affect the build system or external dependencies
+# 2. ci: Changes to our CI configuration files and scripts
+# 3. docs: Documentation only changes
+# 4. feat: A new feature
+# 5. fix: A bug fix
+# 6. perf: A code change that improves performance
+# 7. refactor: A code change that neither fixes a bug nor adds a feature
+# 8. style: Changes that do not affect the meaning of the code
+# 9. test: Adding missing tests or correcting existing tests
+#
+# BREAKING CHANGE: a commit that has a footer BREAKING CHANGE:,
+# or appends a ! after the type/scope (chore!: blah-blah),
+# introduces a breaking API change.
